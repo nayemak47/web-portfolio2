@@ -103,6 +103,9 @@ h2{
 .three-boxarea{
    
    background-color:lightcyan;
+   margin-left: 15%;
+   margin-right: 15%;
+
 
 }
 .mail-class{
@@ -113,5 +116,5 @@ h2{
     position:absolute;
     margin-left:765px;
     text-decoration: none;
-    
+
 }
