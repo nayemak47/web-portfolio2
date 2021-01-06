@@ -40,18 +40,47 @@ section{
     color: white;
     font-weight: 700;
 }
-.work-inq{
+.last-sec{
     background-image: url(images/Group_33094_1.png);
-    background-size: 40%;
+    background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
-    height: 100%;
-    text-align: center;
+    height:225px ;
+    width: 906px;
+    margin-left: 25%;
 }
-h2{
-    font-size: 40px;
-    text-align: center;
+.chat-butt{
+    position: relative;
+    margin-left: 500px;
+    
+    top: 250px;
+    left: 200px;
 }
+
+
+
+.work-inq{
+   
+    float:left;
+    color: honeydew;
+    margin-top: 190px;
+    font-size: 35px;
+    text-align: center;
+    margin-left: 50px;
+}  
+.last-class{
+    text-align: center;
+    color: gray;
+    
+
+}
+
+    
+
+    
+    
+
+
 .p{
     color: dimgray;
 }
@@ -66,11 +95,23 @@ h2{
     -moz-box-align: center;
 }
 
-
+h2{
+    text-align: center;
+}
    
 
 .three-boxarea{
    
    background-color:lightcyan;
 
+}
+.mail-class{
+    text-align: center;
+    color: black;
+    font-weight: 700;
+    font-size:xx-large;
+    position:absolute;
+    margin-left:765px;
+    text-decoration: none;
+    
 }
